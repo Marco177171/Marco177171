@@ -21,4 +21,3 @@ If you need a designer, I can help you with:
 See you around!
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Marco177171&theme=great-gatsby&show_icons=true)
-![streaks](https://github-readme-streak-stats.herokuapp.com/?user=Marco177171&theme=great-gatsby)
