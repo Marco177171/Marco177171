@@ -14,4 +14,4 @@
   <li>Market Research, Canvas models, SWOT Analysis, Targeting... </li>
 </ul>
 
-<p><strong>Check out my 42 projects here. And don't hesitate to reach out for any question!</strong><p>
+<p><strong>Check out my 42 projects here. And don't hesitate to <a href="mailto:msebastiani93@gmail.com?subject=FromGithub">reach out</a> for any question!</strong><p>
