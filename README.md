@@ -4,7 +4,7 @@
 <h2>I'm a product designer from Politecnico Di Milano, and I'm currently attending 42 Network as I'd like to be able to build my ideas through code.</h2>
 
 <h3><strong>Currently learning:</strong></h3><break>
-<p>C | C++ | C# | Python | HTML | CSS</p>
+<p>C | C++ | C# | Python | HTML | CSS | Networking | Docker | LXC</p>
 
 <h3><strong>As a designer, I may help you with:</strong></h3><break>
 <ul>
