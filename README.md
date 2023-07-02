@@ -16,5 +16,22 @@
 
 <p><strong>Check out my 42 projects here. And don't hesitate to <a href="mailto:msebastiani93@gmail.com?subject=FromGithub">reach out</a> for any question!</strong><p>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Marco177171&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marco177171&langs_count=5&theme=tokyonight)]()
+<div align="center">
+	<table>
+		<tr>
+			<b>My GitHub stats</b>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/gmeoli">
+					<img src="https://awesome-github-stats.azurewebsites.net/user-stats/gmeoli?cardType=level&theme=tokyonight" width="397" height="200">
+				</a> 
+			</td>
+			<td>
+				<a href="https://github.com/Marco177171?tab=repositories">
+					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco177171&layout=compact&theme=tokyonight" width="442" height="200">
+				</a>
+			</td>
+		</tr>
+	</table>
+</div>
