@@ -16,4 +16,4 @@ As a designer, here's how I can help:
 - **Integrated Production Systems**
 - **Market Research**: Canvas models, SWOT Analysis, Targeting...
 
-Check out my [42 projects here](link_to_projects). Feel free to [reach out](mailto:msebastiani93@gmail.com?subject=FromGithub) for any questions or collaborations!
+Check out my 42 projects here. Feel free to [reach out](mailto:msebastiani93@gmail.com?subject=FromGithub) for any questions or collaborations!
