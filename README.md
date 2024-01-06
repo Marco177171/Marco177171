@@ -1,17 +1,19 @@
+# Hi there! 👋 I'm Marco
 
-<h1>Heyeyey :)</h1>
+## About Me
+I'm a passionate product designer studying at Politecnico Di Milano. Currently exploring the world of coding at 42 Network to bring my ideas to life through technology.
 
-<h2>I'm a product designer from Politecnico Di Milano, and I'm currently attending 42 Network as I'd like to be able to build my ideas through code.</h2>
+### Skills and Languages
+- C | C++ | C# | Python | Typescript | HTML | CSS | Prisma
 
-<h3><strong>Currently learning:</strong></h3><break>
-<p>C | C++ | C# | Python | HTML | CSS | Networking | Docker | LXC</p>
+### Frameworks
+- ReactJS | NestJS | Django | Networking | Docker | LXC | Postgresql
 
-<h3><strong>As a designer, I may help you with:</strong></h3><break>
-<ul>
-  <li>3D MODELING -> Solidworks, Inventor, Blender, Keyshot.</li>
-  <li>Graphics Design -> Illustrator, Photoshop, Indesign.</li>
-  <li>Integrated Production Systems</li>
-  <li>Market Research, Canvas models, SWOT Analysis, Targeting... </li>
-</ul>
+### Design Expertise
+As a designer, here's how I can help:
+- **3D Modeling**: Solidworks, Inventor, Blender, Keyshot
+- **Graphics Design**: Illustrator, Photoshop, Indesign
+- **Integrated Production Systems**
+- **Market Research**: Canvas models, SWOT Analysis, Targeting...
 
-<p><strong>Check out my 42 projects here. And don't hesitate to <a href="mailto:msebastiani93@gmail.com?subject=FromGithub">reach out</a> for any question!</strong><p>
+Check out my [42 projects here](link_to_projects). Feel free to [reach out](mailto:msebastiani93@gmail.com?subject=FromGithub) for any questions or collaborations!
