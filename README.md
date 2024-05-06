@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Marco
 
 ## About Me
-I'm a passionate product designer graduated at Politecnico Di Milano. Currently exploring the world of coding at 42 Network to bring my ideas to life through technology.
+I'm a passionate product designer graduated at Politecnico Di Milano. Currently learning programming at 42 Network to bring my ideas to life through code.
 
 ### Skills and Languages
 - C | C++ | C# | Python | Typescript | HTML | CSS | Prisma
