@@ -3,6 +3,18 @@
 ## About Me
 I'm a passionate product designer graduated at Politecnico Di Milano. Currently learning programming at 42 Network to bring my ideas to life through code.
 
+<div align="left">
+	<img src="badges/learn/42_Luiss.svg"/>
+	<img src="badges/learn/Cisco.svg"/>
+	<img src="badges/learn/edX.svg"/>
+	<img src="badges/learn/freeCodeCamp.svg"/>
+	<img src="badges/learn/IBM.svg"/>
+	<img src="badges/learn/Sapienza.svg"/>
+	<img src="badges/learn/Solo_Learn.svg"/>
+	<!-- <img src="badges/learn/Udacity.svg"/> -->
+	<img src="badges/learn/Udemy.svg"/>
+</div>
+
 ### Skills and Languages
 - C | C++ | C# | Python | Typescript | HTML | CSS | Prisma
 
