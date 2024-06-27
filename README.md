@@ -8,17 +8,13 @@ I'm a passionate product designer graduated at Politecnico Di Milano. Currently 
 ![Static Badge](https://img.shields.io/badge/C%23-Programming-green)
 ![Static Badge](https://img.shields.io/badge/Python-Programming-green)
 ![Static Badge](https://img.shields.io/badge/Typescript-Programming-green)
-![Static Badge](https://img.shields.io/badge/HTML-CSS-red)
-
-
-
-### Skills and Languages
-- C | C++ | C# | Python | Typescript | HTML | CSS | Prisma
+![Static Badge](https://img.shields.io/badge/HTML-red)
+![Static Badge](https://img.shields.io/badge/CSS-red)
 
 ### Frameworks
-![Static Badge](https://img.shields.io/badge/Django-Framework-Python)
-![Static Badge](https://img.shields.io/badge/ReactJS-Framework-Typescript)
-![Static Badge](https://img.shields.io/badge/NestJS-Framework-Typescript)
+![Static Badge](https://img.shields.io/badge/Django-Framework-green)
+![Static Badge](https://img.shields.io/badge/ReactJS-Framework-blue)
+![Static Badge](https://img.shields.io/badge/NestJS-Framework-red)
 
 - ReactJS | NestJS | Django | Networking | Docker | LXC | Postgresql
 
