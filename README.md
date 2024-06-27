@@ -18,7 +18,10 @@ I'm a passionate product designer graduated at Politecnico Di Milano. Currently 
 ![Static Badge](https://img.shields.io/badge/NestJS-Framework-red)
 
 ### TECHNOLOGIES
-![Static Badge](https://img.shields.io/badge/Docker-blue)
+![Static Badge](https://img.shields.io/badge/Docker-Containers-blue)
+![Static Badge](https://img.shields.io/badge/NodeJS-Development-blue)
+![Static Badge](https://img.shields.io/badge/Linux-OS-black)
+![Static Badge](https://img.shields.io/badge/Bash-Scripting-black)
 
 ### Design Expertise
 
