@@ -3,6 +3,9 @@
 ## About Me
 I'm a passionate product designer graduated at Politecnico Di Milano. Currently learning programming at 42 Network to bring my ideas to life through code.
 
+![Static Badge](https://img.shields.io/badge/C-Programming-language)
+
+
 ### Skills and Languages
 - C | C++ | C# | Python | Typescript | HTML | CSS | Prisma
 
