@@ -13,7 +13,7 @@ I'm a passionate product designer graduated at Politecnico Di Milano. Currently 
   <tr>
     <td>
       ### FRAMEWORKS
-      https://img.shields.io/badge/Django-Framework-green
+      ![Static Badge](https://img.shields.io/badge/Django-Framework-green)
       ![Static Badge](https://img.shields.io/badge/ReactJS-Framework-blue)
       ![Static Badge](https://img.shields.io/badge/NestJS-Framework-red)
     </td>
