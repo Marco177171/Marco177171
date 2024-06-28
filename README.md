@@ -9,15 +9,23 @@ I'm a passionate product designer graduated at Politecnico Di Milano. Currently 
 ![Static Badge](https://img.shields.io/badge/Typescript-Programming-green)
 ![Static Badge](https://img.shields.io/badge/HTML-red)
 ![Static Badge](https://img.shields.io/badge/CSS-red)
-### FRAMEWORKS
-![Static Badge](https://img.shields.io/badge/Django-Framework-green)
-![Static Badge](https://img.shields.io/badge/ReactJS-Framework-blue)
-![Static Badge](https://img.shields.io/badge/NestJS-Framework-red)
-### TECHNOLOGIES
-![Static Badge](https://img.shields.io/badge/Docker-Containers-blue)
-![Static Badge](https://img.shields.io/badge/NodeJS-Development-blue)
-![Static Badge](https://img.shields.io/badge/Linux-OS-black)
-![Static Badge](https://img.shields.io/badge/Bash-Scripting-black)
+<table>
+  <tr>
+    <td>
+      ### FRAMEWORKS
+      ![Static Badge](https://img.shields.io/badge/Django-Framework-green)
+      ![Static Badge](https://img.shields.io/badge/ReactJS-Framework-blue)
+      ![Static Badge](https://img.shields.io/badge/NestJS-Framework-red)
+    </td>
+    <td>
+      ### TECHNOLOGIES
+      ![Static Badge](https://img.shields.io/badge/Docker-Containers-blue)
+      ![Static Badge](https://img.shields.io/badge/NodeJS-Development-blue)
+      ![Static Badge](https://img.shields.io/badge/Linux-OS-black)
+      ![Static Badge](https://img.shields.io/badge/Bash-Scripting-black)
+    </td>
+  </tr>
+</table>
 ### Design Expertise
 #### 3d modeling
 ![Static Badge](https://img.shields.io/badge/Dassault-Solidworks-red)
