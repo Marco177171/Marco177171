@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Marco
 ## About Me
-I'm a passionate product designer graduated at Politecnico Di Milano. Currently learning programming at 42 Network to bring my ideas to life through code.
+Italian designer and programmer here
 ### LANGUAGES
 ![Static Badge](https://img.shields.io/badge/C-Programming-green)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-Programming-green)
