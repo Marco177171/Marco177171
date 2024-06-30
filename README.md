@@ -22,7 +22,7 @@ Italian designer and programmer here
 #### 3d modeling
 ![Static Badge](https://img.shields.io/badge/Dassault-Solidworks-red)
 ![Static Badge](https://img.shields.io/badge/Autodesk-Inventor-orange)
-![Static Badge](https://img.shields.io/badge/Keyshot-Rendering-blue)
+![Static Badge](https://img.shields.io/badge/Luxion-Keyshot-blue)
 #### graphic design
 ![Static Badge](https://img.shields.io/badge/Adobe-Illustrator-yellow)
 ![Static Badge](https://img.shields.io/badge/Adobe-Indesign-purple)
