@@ -43,5 +43,5 @@
 ---
 
 ## 📫 Get in Touch!  
-- 💻 Check out my projects at [42](#) (add link if applicable).  
+- 💻 Check out my projects here.  
 - 📧 Feel free to [email me](mailto:msebastiani93@gmail.com?subject=FromGithub) for collaborations or questions.  
